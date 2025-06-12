@@ -1,4 +1,4 @@
-# Submission for the Advanced Topics in Quantum Computing course
+# Submission for the Advanced Topics in Quantum Computing course (SS 25)
 
 ## Project: Modified qDrift
 ## Supervisor: Shuo Sun
